@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "asima:why-sad?jan2021",
+    "slug": "snack-b2705d4b-2c98-4894-9b30-b813804865f4",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package":"com.asima.whysad"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
